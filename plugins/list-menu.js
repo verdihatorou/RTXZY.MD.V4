@@ -1,3 +1,5 @@
+// beta list menu ujicoba doang 
+
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 let _uptime = process.uptime() * 1000
     let uptime = clockString(_uptime)
@@ -7,16 +9,16 @@ let _uptime = process.uptime() * 1000
     let sel = `*© Rtxzy*`
     let rs = `Click Here`
 const sections = [ {
-	title: `☁️ Aktif ${uptime} / ⏲️ Jam ${time} WIB`,
+	title: `☁️ Aktif ${uptime} || ⏲️ Jam ${time} WIB`,
 	rows: [
 	    {title: `Semua Perintah`, rowId: `.a `},//, description: ``},
+            {title: `All CMD Payment`, rowId: `.pay `},//, description: ``},
 	    {title: `Owner`, rowId: `#owner `},//, description: ``},
         {title: `Donasi`, rowId: `#donasi `},//, description: ``},
         {title: `Script`, rowId: `#sc `},//, description: ``},
         {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
         {title: `Speed`, rowId: `#speed `},//, description: ``},
         {title: `List Texpro Maker`, rowId: `#textpro `},//, description: ``},
-        {title: `Creator`, rowId: `#owner `},//, description: ``},
         ]
  } ]
 

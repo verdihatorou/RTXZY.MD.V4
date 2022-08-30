@@ -1,10 +1,11 @@
 
 </p>
-<h1 align="center">RTXZY-MD</h1>
+<h1 align="center">Wahatsapp Bot</h1>
 <p align="center">
 
-<img src="https://telegra.ph/file/b4d36a17e68e5f9f27cd5.jpg" alt="Br" width="500"/>
-<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
+<div align="center"><img src="https://raw.githubusercontent.com/BOTCAHX/RTXZY-MD/v3.0/gifs-de-auditoria-23.gif"></div>
+</p>
+<h1 align="center">Kasih Start Biar Semangat Recode Nya:v</h1>
 
 >
 >
@@ -22,7 +23,7 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 <!--<div>https://botcahx-rest-api.herokuapp.com/</div>-->
 </p>
   
-<a href="https://https://botcahx-rest-api.herokuapp.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbotcahx-rest-api.herokuapp.com%2Fhit-counter&count_bg=%23E20D0D&title_bg=%230C15DB&icon=heroku.svg&icon_color=%23E7E7E7&title=Hits+Today&edge_flat=false"/></a>
+<a href="https://botcahx-rest-api.herokuapp.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbotcahx-rest-api.herokuapp.com%2Fhit-counter&count_bg=%23E20D0D&title_bg=%230C15DB&icon=heroku.svg&icon_color=%23E7E7E7&title=Hits+Today&edge_flat=false"/></a>
 <a href="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/RTXZY-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/RTXZY-MD"></a>
 <a href="https://github.com/BOTCAHX/RTXZY-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BOTCAHX/RTXZY-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/BOTCAHX/RTXZY-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BOTCAHX/RTXZY-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -77,14 +78,14 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > git clone  https://github.com/BOTCAHX/RTXZY-MD
 > cd RTXZY-MD
 > npm i
-> node run.js
+> node index.js
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
 > cp -r RTXZY-MD $HOME
 > cd RTXZY-MD
 > npm i
-> node run.js
+> node index.js
 ```
 
 ## Run On Heroku
@@ -235,9 +236,10 @@ Creator | Creator |
 <a href="https://github.com/verdihatorou"><img src="https://github.com/verdihatorou.png?size=100" width="100" height="100"></a> | [![Radhin](https://github.com/radhin123.png?size=100)](https://github.com/radhin123) 
 [Verdi](https://github.com/verdihatorou)  | [ Radhin](https://github.com/radhin123)
 Creator | Contributors |
-<a href="https://github.com/Natx-C"><img src="https://github.com/Natx-C.png?size=100" width="100" height="100"></a>
-[Natx-C](https://github.com/Natx-C) 
-Gretonger
+<a href="https://github.com/Natx-C"><img src="https://github.com/Natx-C.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) 
+---|---
+[Natx-C](https://github.com/Natx-C)  | [Zivfurr](https://github.com/Zivfurr)
+Contributor | Contributor |
 ##### Special Thanks to
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
